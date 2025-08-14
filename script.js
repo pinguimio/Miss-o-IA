@@ -1,4 +1,36 @@
+Skip to content
+Navigation Menu
+alura-cursos
+missao-refletindo-sobre-inteligencia-artificial
 
+Type / to search
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Files
+Go to file
+t
+index.html
+script.js
+style.css
+missao-refletindo-sobre-inteligencia-artificial
+/script.js
+femascheti
+femascheti
+add mostraAlternativa
+1c5d7c1
+ · 
+last year
+missao-refletindo-sobre-inteligencia-artificial
+/script.js
+
+Code
+
+Blame
+62 lines (57 loc) · 3.53 KB
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
@@ -49,6 +81,16 @@ let perguntaAtual;
 function mostraPergunta() {
     perguntaAtual = perguntas[atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
+    mostraAlternativas();
+}
+
+function mostraAlternativas() {
+    for (const alternativa of perguntaAtual.alternativas) {
+        const botaoAlternativas = document.createElement("button");
+        botaoAlternativas.textContent = alternativa;
+        caixaAlternativas.appendChild(botaoAlternativas);
+    }
 }
 
 mostraPergunta();
+missao-refletindo-sobre-inteligencia-artificial/script.js at aula-05 · alura-cursos/missao-refletindo-sobre-inteligencia-artificial
