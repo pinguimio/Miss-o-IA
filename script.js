@@ -6,16 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você é Elara, uma aprendiz de cartógrafa em uma vila isolada nas Montanhas Nebulosas. Sua missão é traçar um mapa da Floresta Sussurrante para encontrar a lendária Pedra-Estrela, que dizem ter o poder de acalmar as tempestades mágicas que assolam sua vila 
-A trilha que leva à floresta é estreita e sinuosa. Você decide adentrar na mata fechada. A luz do sol mal consegue passar pelas copas das árvores, e o silêncio é tão profundo que você ouve o som dos seus próprios passos. De repente, a trilha termina em uma encruzilhada. À sua frente, há uma antiga estátua de pedra coberta de musgo, e à sua direita, um rio de águas escuras corre com força.",
-        alternativas: [
+        enunciado: "Você é Elara, uma aprendiz de cartógrafa em uma vila isolada nas Montanhas Nebulosas. Sua missão é traçar um mapa da Floresta Sussurrante para encontrar a lendária Pedra-Estrela, que dizem ter o poder de acalmar as tempestades mágicas que assolam sua vila. A trilha que leva à floresta é estreita e sinuosa. Você decide adentrar na mata fechada. A luz do sol mal consegue passar pelas copas das árvores, e o silêncio é tão profundo que você ouve o som dos seus próprios passos. De repente, a trilha termina em uma encruzilhada. À sua frente, há uma antiga estátua de pedra coberta de musgo, e à sua direita, um rio de águas escuras corre com força, alternativas": [
             {
                 texto: "Seguir a estátua de pedra. Você acredita que símbolos antigos como esse podem ser a chave para encontrar a Pedra-Estrela.",
                 afirmacao: "Ela acredita em coisas antigas que podem ajudar. "
             },
             {
                 texto: "Atravessar o rio. A água corre para o coração da floresta, e você tem a sensação de que o rio a levará mais perto de seu destino.",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "Ela decide prosseguir em frente através do rio."
             }
         ]
     },
