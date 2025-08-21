@@ -22,11 +22,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tenta acalmar o Grifo oferecendo-lhe um fruto raro que você trouxe para sua jornada.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                afirmacao: "O aborda de maneira sútil com a motivação que sirva de ajuda ao seu objetivo."
             },
             {
                 texto: "Tenta roubar o amuleto do pescoço do Grifo sem que ele perceba, pois você sente que ele é a chave para a Pedra-Estrela.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                afirmacao: "Decide agir imediatamente com o roubo."
             }
         ]
     },
