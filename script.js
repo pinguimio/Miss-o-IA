@@ -43,14 +43,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você avança, não importa a escolha, e a floresta parece se fechar atrás de você. As árvores se tornam mais densas, a luz desaparece quase por completo, e um nevoeiro misterioso começa a subir do chão. Uma voz sussurra em sua mente, dizendo para você desistir, que a Pedra-Estrela não é real. Mas você ignora. De repente, o chão sob seus pés começa a brilhar. Você olha para baixo e vê um desenho mágico, um mapa estelar, que se ilumina com uma luz suave. No centro do mapa, uma única palavra brilha intensamente: Siga a constelação do Dragão. Você olha para cima, mas as copas das árvores são muito densas para que você veja as estrelas.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Usa sua bússola, esperando que ela seja afetada pela magia do lugar e aponte para a direção correta.",
                 afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Sobe em uma árvore para ver o céu noturno, seguindo a intuição de que a resposta está acima de você.",
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
