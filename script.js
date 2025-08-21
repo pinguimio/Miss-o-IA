@@ -31,14 +31,13 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
-        alternativas: [
+        enunciado: "Você decide atravessar o rio e, ao fazê-lo, descobre um túnel escondido atrás de uma cachoeira. A entrada do túnel é escura, e você ouve o som de estalidos vindos de dentro. Você acende uma tocha e avança. O túnel é cheio de cristais que iluminam o caminho, mas as paredes estão rachadas, e o teto parece instável."
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Prossegue com cautela, tocando as paredes para se guiar e tentando não fazer barulho para evitar um desmoronamento.",
                 afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Corre o mais rápido que pode, acreditando que o perigo de desmoronamento é iminente e que a velocidade é sua única chance.",
                 afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
             }
         ]
