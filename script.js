@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Seguir a estátua de pedra. Você acredita que símbolos antigos como esse podem ser a chave para encontrar a Pedra-Estrela.",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Atravessar o rio. A água corre para o coração da floresta, e você tem a sensação de que o rio a levará mais perto de seu destino.",
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
