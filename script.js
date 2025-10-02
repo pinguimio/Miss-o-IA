@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "A trilha que leva à floresta é estreita e sinuosa. Você decide adentrar na mata fechada. A luz do sol mal consegue passar pelas copas das árvores, e o silêncio é tão profundo que você ouve o som dos seus próprios passos. De repente, a trilha termina em uma encruzilhada. À sua frente, há uma antiga estátua de pedra coberta de musgo, e à sua direita, uma trilha escura e sombria que grita horrores desconhecidos com armadilhas",
         alternativas: [
             {
                 texto: "Seguir a estátua de pedra. Você acredita que símbolos antigos como esse podem ser a chave para encontrar a Pedra-Estrela.",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "ir por esse caminho lhe trouçe satisfação e pistas de ser o caminho correto para chegar ao local."
             },
             {
-                texto: "Atravessar o rio. A água corre para o coração da floresta, e você tem a sensação de que o rio a levará mais perto de seu destino.",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Olhar para a trilha escura e ver se tem alguma pequena chance de mudar o rumo da vida e sobreviver de alguma forma e se arriscar a não encontrar nada de util"
+                afirmacao: "Escolheu esse caminho e quase não saiu viva, saindo machucada e bem traumatizada."
             }
         ]
     },
@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tenta acalmar o Grifo oferecendo-lhe um fruto raro que você trouxe para sua jornada.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                afirmacao: " ."
             },
             {
                 texto: "Tenta roubar o amuleto do pescoço do Grifo sem que ele perceba, pois você sente que ele é a chave para a Pedra-Estrela.",
