@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "ir por esse caminho lhe trouçe satisfação e pistas de ser o caminho correto para chegar ao local."
             },
             {
-                texto: "Olhar para a trilha escura e ver se tem alguma pequena chance de mudar o rumo da vida e sobreviver de alguma forma e se arriscar a não encontrar nada de util"
+                texto: "Olhar para a trilha escura e ver se tem alguma pequena chance de mudar o rumo da vida e sobreviver de alguma forma e se arriscar a não encontrar nada de util."
                 afirmacao: "Escolheu esse caminho e quase não saiu viva, saindo machucada e bem traumatizada."
             }
         ]
